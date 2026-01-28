@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Makes the Web APP responsive on various screen sizes -->
+    <link rel="stylesheet" href="css/style.css"> <!-- Link to CSS file -->
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- Link to font used on the App -->
+    <title>Movie Search App</title>
+</head>
+
+<body>
+
+    <!-- Main container for the markup -->
+    <main class="container">
+        <header>
+            <a href="index.html">MovieQuik</a>
+
+            <form id="movieForm" autocomplete="off" class="movie-form">
+                <input type="text" class="movie-input" id="movieInput" placeholder="Enter Movie">
+                <button type="submit" class="btn">Search</button>
+            </form>
+        </header>
+
+        <section class="hero">
+            <div class="hero-text">
+                <h1>Your No. 1 stop for discovering your Favourite movies!</h1>
+                <p>Getting details about your Favourite movie just got easier. </p>
+                <p>Just type in the name and let the site do the rest.</p>
+            </div>
+        </section>
+
+        <p>Search Result</p>
+        <hr>
+
+        <div class="movie-box" id="movieBox">
+
+        </div>
+    </main>
+
+    <script src="js/main.js"></script> <!-- Link to JavaScript file -->
+</body>
+
+</html>
