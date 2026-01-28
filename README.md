@@ -1,19 +1,10 @@
 # Table of contents
 
-- [Overview](#overview)
-  - [About movies web app](#about-moviez-web-app)
-  - [Screenshot](#screenshot)
-  - [Link](#link)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Useful Resources](#useful-resources)
-- [Author](#author)
-
 ## Overview 
 
-### About moviez web app
+### About MovieQuik web app
 
-moviez is a web application where users can easily search for their favourite movies and get details about them.
+MovieQuik is a web application where users can easily search for their favourite movies and get details about them.
 
 Users are able to:
 
@@ -22,10 +13,6 @@ Users are able to:
     - the movie title
     - movie poster
     - and a details button which they can easily expand or collapse to see links to details about the movie
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Link
 
