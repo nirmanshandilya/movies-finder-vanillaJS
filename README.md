@@ -16,7 +16,7 @@ Users are able to:
 
 ### Link
 
-- [Live Site](https://uzoway.github.io/movie-search-app/)
+- [Live Site](https://nirmanshandilya.github.io/movies-finder-vanillaJS/)
 
 ## My Process
 
